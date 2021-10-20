@@ -1,2 +1,3 @@
 # RNAHOTness
-Stat 157 Final Project
+
+Report: 'Model Invariant Predictive Features for RNA HOTness in Drosophila'
